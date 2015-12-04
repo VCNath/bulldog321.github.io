@@ -11,4 +11,8 @@ body {
 }
 h1{
 	background-color: #D46E00
+	text-align: center;
+	border-style: dashed;
+	margin-left: 100px;
+	margin-right: 100px;
 }
