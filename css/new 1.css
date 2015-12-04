@@ -5,3 +5,7 @@ body {
     font-size: 20px;
     color: green;
 }
+h1 {
+    color: yellow;
+    background-color: blue;
+}
