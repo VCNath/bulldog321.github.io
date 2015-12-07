@@ -16,7 +16,13 @@ h1{
 	margin-left: 100px;
 	margin-right: 100px;
 }
-#maincontent{
-	margen-left: 75px;
-	margen_right: 75px;
+#mainContent{
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+.centerMe{
+	display: block;
+	margin-left :auto;
+	margin-right :auto;
 }
