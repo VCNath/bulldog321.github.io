@@ -6,8 +6,8 @@ body {
     color: #D46E00;
 }
 body {
-    color: yellow;
-    background-color: #FF9929;
+    background-image: url("paper.gif");
+    background-color: #cccccc;
 }
 h1{
 	font-family: 'Pacifico', cursive;
