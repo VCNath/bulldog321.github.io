@@ -13,7 +13,7 @@ h1{
 	font-family: 'Pacifico', cursive;
 	background-color: #FFD04E ;
 	text-align: center;
-	border-style: dashed;
+	border-style: inset;
 	margin-left: 100px;
 	margin-right: 100px;
 }
@@ -31,7 +31,7 @@ h2{
 	font-family: 'Pacifico', cursive;
 	background-color: #D46E00;
 	text-align: center;
-	border-style: dashed;
+	border-style: incent;
 	margin-left: 100px;
 	margin-right: 100px;
 	
