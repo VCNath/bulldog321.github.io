@@ -1,17 +1,17 @@
 p { 
-	color: #CE9700
+	color: #E01A00;
 }
 body {
     font-size: 20px;
-    color: #4D0CB3;
+    color: #009F45;
 }
 body {
     color: yellow;
-    background-color: #ACC800;
+    background-color: #00A72C;
 }
 h1{
 	font-family: 'Pacifico', cursive;
-	background-color: #FFD04E ;
+	background-color: #FF2A0E ;
 	text-align: center;
 	border-style: inset;
 	margin-left: 100px;
@@ -29,7 +29,7 @@ h1{
 }
 h2{
 	font-family: 'Pacifico', cursive;
-	background-color: #D46E00;
+	background-color: #741800;
 	text-align: center;
 	border-style: inset;
 	margin-left: 100px;
@@ -38,7 +38,7 @@ h2{
 }
 p{
 	font-family: 'Pacifico', cursive;
-	background-color: #D46E00;
+	background-color: #741800;
 	text-align: center;
 	margin-left: 100px;
 	margin-right: 100px;
