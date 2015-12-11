@@ -1,3 +1,12 @@
+title{
+	color:green;
+	font-size: 20px;
+	margin-top: 40;
+	margin-left: 175px;
+	margin-right: 175px;
+	
+	
+}
 p { 
 	color: #E01A00;
 }
@@ -14,8 +23,8 @@ h1{
 	background-color: #FF2A0E ;
 	text-align: center;
 	border-style: inset;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 175px;
+	margin-right: 175px;
 }
 #mainContent{
 	margin-left: 75px;
@@ -32,16 +41,16 @@ h2{
 	background-color: #741800;
 	text-align: center;
 	border-style: inset;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 175px;
+	margin-right: 175px;
 	
 }
 p{
 	font-family: 'Pacifico', cursive;
 	background-color: #741800;
 	text-align: center;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 175px;
+	margin-right: 175px;
 }
 ul {
     list-style-type: none;
