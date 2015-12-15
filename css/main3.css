@@ -52,39 +52,45 @@ p{
 	margin-left: 175px;
 	margin-right: 175px;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
-nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	background-color: #f1f1f1;
-	width: 130px;
-	position: fixed;
-	height: 100%;
-	top: 0;
-	left: 0;
+li {
+    float: left;
 }
 
-nav ul li a {
-	display: block;
-	text-decoration: none;
-	color: #000;
-	padding-left: 16px;
-	padding-top: 8px;
-	padding-bottom: 8px;
-
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
-nav ul li a:hover {
-	background-color: #555;
-	color: #fff;
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+    background-color: #111;
 }
-
 .active {
-	background-color: #4CAF50;
-	color: #fff;
+    background-color: #4CAF50;
 }
+/* Add a gray right border to all list items, except the last item (last-child) */
+nav li {
+    border-right: 1px solid #bbb;
+}
+
+nav li:last-child {
+    border-right: none;
+}
+nav ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 @media screen and (max-width: 600px) {
 	nav ul {
