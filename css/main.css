@@ -1,5 +1,5 @@
 title{
-	color:#c32323;
+	color:#f21a1a;
 	font-size: 20px;
 	margin-top: 40;
 	margin-left: 175px;
@@ -8,19 +8,19 @@ title{
 	
 }
 p { 
-	color: 		#6cc715;
+	color: #E01A00;
 }
 body {
     font-size: 20px;
-    color: #008d83;
+    color: #009F45;
 }
 body {
-    color:#c03dc1;
-    background-color: 	#690a6f;
+    color: green;
+    background-color: #00A72C;
 }
 h1{
 	font-family: 'Pacifico', cursive;
-	background-color: 	 ;
+	background-color: #FF2A0E ;
 	text-align: center;
 	border-style: inset;
 	margin-left: 175px;
@@ -38,7 +38,7 @@ h1{
 }
 h2{
 	font-family: 'Pacifico', cursive;
-	background-color: 	#c32323;
+	background-color: #741800;
 	text-align: center;
 	border-style: inset;
 	margin-left: 175px;
@@ -47,7 +47,7 @@ h2{
 }
 p{
 	font-family: 'Pacifico', cursive;
-	background-color: 		#6cc715;
+	background-color: #741800;
 	text-align: center;
 	margin-left: 175px;
 	margin-right: 175px;
@@ -58,7 +58,7 @@ nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #008d83;
+	background-color: #f1f1f1;
 	width: 130px;
 	position: fixed;
 	height: 100%;
@@ -69,7 +69,7 @@ nav ul {
 nav ul li a {
 	display: block;
 	text-decoration: none;
-	color: #c03dc1;
+	color: #000;
 	padding-left: 16px;
 	padding-top: 8px;
 	padding-bottom: 8px;
@@ -77,20 +77,20 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-	background-color: 	#690a6f;
-	color: #c32323;
+	background-color: #555;
+	color: #fff;
 }
 
 .active {
-	background-color: 	#6cc715;
-	color: 	#008d83;
+	background-color: #4CAF50;
+	color: #fff;
 }
 }
 @media screen and (max-width: 600px) {
 	nav ul {
 		list-style-type: none;
 
-		background-color: #c03dc1;
+		background-color: #f1f1f1;
 		width: 100%;
 		position: fixed;
 		top: 0;
@@ -100,7 +100,7 @@ nav ul li a:hover {
 	nav ul li a {
 		display: block;
 		text-decoration: none;
-		color: #690a6f;
+		color: #000;
 		padding-left: 16px;
 		padding-top: 8px;
 		padding-bottom: 8px;
